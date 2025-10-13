@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="068d8a8b-9dc9-4731-a4fb-e645c78ec452" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/ExtentReports/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/snaps/mobileDetailsByName extent.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/snaps/mobileDetailsByNameextent.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/snaps/mobileDetailsByPriceextent.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/snaps/selectItem extent.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/helpers/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/helpers/ExtentReportNg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/helpers/Listners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mypages/AbstractPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mypages/AmazonPages/AmazonHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mypages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mypages/DemoQA/CardsWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mypages/DemoQA/LandingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mypages/RahulShettyPages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mypages/RahulShettyPages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AmazonTests/AmazonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RahulShettyTests/RahulShettyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/demoQATests/LandingPageNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/demoQATests/TestLandingPageValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2seTkRz21C0JuqFEsi6RCNPEpct" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Git/OopsConcetsInFramework",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="mypages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Git\OopsConcetsInFramework" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Git\OopsConcetsInFramework\src\main\java" />
+      <recent name="D:\Git\OopsConcetsInFramework\src\main\java\utility" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestLandingPageValidationEamilable">
+    <configuration name="AmazonTest.selectCardNew" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OopsConcetsInFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AmazonTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AmazonTests" />
+      <option name="MAIN_CLASS_NAME" value="AmazonTests.AmazonTest" />
+      <option name="METHOD_NAME" value="selectCardNew" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/Git/OopsConcetsInFramework/amazonTestng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OopsConcetsInFramework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/amazonTestng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/Git/OopsConcetsInFramework/pr.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OopsConcetsInFramework" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/pr.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LandingPageNew.selectCardNew" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OopsConcetsInFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demoQATests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="RahulShettyTests" />
+      <option name="MAIN_CLASS_NAME" value="demoQATests.LandingPageNew" />
+      <option name="METHOD_NAME" value="selectCardNew" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RahulShettyTest.loginAnd" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OopsConcetsInFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RahulShettyTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="RahulShettyTests" />
+      <option name="MAIN_CLASS_NAME" value="RahulShettyTests.RahulShettyTest" />
+      <option name="METHOD_NAME" value="loginAnd" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLandingPageValidationEamilable" type="TestNG">
+      <module name="OopsConcetsInFramework" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demoQATests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="demoQATests" />
+      <option name="MAIN_CLASS_NAME" value="demoQATests.TestLandingPageValidation" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.TestLandingPageValidationEamilable" />
+      <item itemvalue="TestNG.AmazonTest.selectCardNew" />
+      <item itemvalue="TestNG.D:/Git/OopsConcetsInFramework/amazonTestng.xml" />
+      <item itemvalue="TestNG.D:/Git/OopsConcetsInFramework/pr.xml" />
+      <item itemvalue="TestNG.LandingPageNew.selectCardNew" />
+      <item itemvalue="TestNG.RahulShettyTest.loginAnd" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/Git/OopsConcetsInFramework/pr.xml" />
+        <item itemvalue="TestNG.RahulShettyTest.loginAnd" />
+        <item itemvalue="TestNG.LandingPageNew.selectCardNew" />
+        <item itemvalue="TestNG.AmazonTest.selectCardNew" />
+        <item itemvalue="TestNG.D:/Git/OopsConcetsInFramework/amazonTestng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="068d8a8b-9dc9-4731-a4fb-e645c78ec452" name="Changes" comment="" />
+      <created>1738815184262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738815184262</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

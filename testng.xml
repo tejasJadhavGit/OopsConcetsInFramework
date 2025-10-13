@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/Git/OopsConcetsInFramework">
+        <classes>
+            <class name="AmazonTests.AmazonTest">
+                <methods>
+                    <include name="mobileDetailsByPrice"/>
+                    <include name="mobileDetailsByName"/>
+                </methods>
+            </class>
+            <class name="RahulShettyTests.RahulShettyTest">
+                <methods>
+                    <include name="loginAnd"/>
+                </methods>
+            </class>
+            <class name="demoQATests.LandingPageNew">
+                <methods><include name="selectElementCard"/>
+                    <include name="getmobileNames"/>
+                    <include name="selectCardNew"/>
+                    <include name="loginAnd"/>
+                </methods>
+            </class>
+            <class name="demoQATests.TestLandingPageValidation">
+                <methods><include name="launchLandingPage"/>
+                    <include name="selectElementCard"/>
+                    <include name="alerWindows"/>
+                    <include name="wsitchWindow"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
