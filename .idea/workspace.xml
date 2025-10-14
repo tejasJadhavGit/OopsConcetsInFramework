@@ -5,37 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="068d8a8b-9dc9-4731-a4fb-e645c78ec452" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amazonTestng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pr.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/ExtentReports/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/snaps/mobileDetailsByName extent.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/snaps/mobileDetailsByNameextent.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/snaps/mobileDetailsByPriceextent.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/snaps/selectItem extent.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/helpers/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/helpers/ExtentReportNg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/helpers/Listners.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mypages/AbstractPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mypages/AmazonPages/AmazonHomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mypages/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mypages/DemoQA/CardsWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mypages/DemoQA/LandingPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mypages/RahulShettyPages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mypages/RahulShettyPages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AmazonTests/AmazonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RahulShettyTests/RahulShettyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/demoQATests/LandingPageNew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/demoQATests/TestLandingPageValidation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +23,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/Downloads/apache-maven-3.9.11" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="2seTkRz21C0JuqFEsi6RCNPEpct" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -67,7 +45,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "D:/Git/OopsConcetsInFramework",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+    "settings.editor.selected.configurable": "MavenSettings"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -80,6 +58,9 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Git\OopsConcetsInFramework\src\main\java" />
       <recent name="D:\Git\OopsConcetsInFramework\src\main\java\utility" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
     </key>
   </component>
   <component name="RunManager" selected="TestNG.TestLandingPageValidationEamilable">

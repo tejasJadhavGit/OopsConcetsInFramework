@@ -9,18 +9,49 @@
 
   <name>OopsConcetsInFramework</name>
   <url>http://maven.apache.org</url>
-
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>11</maven.compiler.source>
     <maven.compiler.target>11</maven.compiler.target>
   </properties>
 
+  <build>
+    <pluginManagement>
+      <plugins>
+          <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-surefire-plugin</artifactId>
+            <version>3.5.4</version>
+            <configuration>
+              <suiteXmlFiles>
+                <suiteXmlFile>amazonTestng.xml</suiteXmlFile>
+              </suiteXmlFiles>
+            </configuration>
+        </plugin>
+      </plugins>
+    </pluginManagement>
+
+  </build>
+
+
   <dependencies>
+
+    <!-- https://mvnrepository.com/artifact/junit/junit -->
+
+
     <dependency>
       <groupId>org.seleniumhq.selenium</groupId>
       <artifactId>selenium-java</artifactId>
       <version>3.141.59</version>
+    </dependency>
+
+
+    <!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-surefire-plugin -->
+    <dependency>
+      <groupId>org.apache.maven.plugins</groupId>
+      <artifactId>maven-surefire-plugin</artifactId>
+      <version>3.5.4</version>
+      <scope>test</scope>
     </dependency>
 
     <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-jvm-deps -->
@@ -82,16 +113,15 @@
     <dependency>
       <groupId>io.github.bonigarcia</groupId>
       <artifactId>webdrivermanager</artifactId>
-      <version>5.6.3</version>
+      <version>6.1.0</version>
     </dependency>
 
+    <!-- https://mvnrepository.com/artifact/org.testng/testng -->
     <dependency>
       <groupId>org.testng</groupId>
       <artifactId>testng</artifactId>
-      <version>6.9.10</version>
-      <scope>compile</scope>
+      <version>7.11.0</version>
     </dependency>
-
 
     <!-- https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-api -->
     <dependency>
@@ -122,12 +152,7 @@
       <scope>provided</scope>
     </dependency>
 
-<!--    <dependency>-->
-<!--      <groupId>junit</groupId>-->
-<!--      <artifactId>junit</artifactId>-->
-<!--      <version>4.13.1</version>-->
-<!--      <scope>compile</scope>-->
-<!--    </dependency>-->
+
 
     <dependency>
       <groupId>org.junit.jupiter</groupId>
