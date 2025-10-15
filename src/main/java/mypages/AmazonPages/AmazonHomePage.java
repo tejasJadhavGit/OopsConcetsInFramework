@@ -13,6 +13,7 @@ public class AmazonHomePage extends BasePage {
 
      String  MobileNamesByPrice;
     By   prices;
+    By mobileNames;
 
     public AmazonHomePage(WebDriver driver) {
         super(driver);
@@ -41,8 +42,12 @@ public class AmazonHomePage extends BasePage {
 
     public WebElement getMobileByPrice(String mobilePrice){
 
-        By mobileNames = By.xpath("//span[@class='a-price-whole' and text()='"+mobilePrice+"']/ancestor::div[@class='a-section a-spacing-small a-spacing-top-small']/descendant::h2/span");
-
+      try{
+          mobileNames = By.xpath("//span[@class='a-price-whole' and text()='"+mobilePrice+"']/ancestor::div[@class='a-section a-spacing-small a-spacing-top-small']/descendant::h2/span");
+      }
+catch (Exception e){
+          e.printStackTrace();
+}
         By mobileName = By.xpath("//span[contains(text(),'"+mobilePrice+"')]/ancestor::div[@class='a-section a-spacing-small a-spacing-top-small']/descendant::h2/span");
       return  getElement(mobileNames);
 

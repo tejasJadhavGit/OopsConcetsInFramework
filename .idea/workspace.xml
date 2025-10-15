@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="068d8a8b-9dc9-4731-a4fb-e645c78ec452" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/reports/snaps/mobileDetailsByPrice extent.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/snaps/mobileDetailsByPrice.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/ExtentReports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/ExtentReports/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/snaps/mobileDetailsByName extent.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/reports/snaps/mobileDetailsByName extent.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/snaps/mobileDetailsByPriceextent.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/reports/snaps/mobileDetailsByPriceextent.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/snaps/selectItem extent.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/reports/snaps/selectItem extent.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mypages/AmazonPages/AmazonHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mypages/AmazonPages/AmazonHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AmazonTests/AmazonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AmazonTests/AmazonTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +68,25 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestLandingPageValidationEamilable">
+  <component name="RunManager" selected="TestNG.AmazonTest.mobileDetailsByPrice">
+    <configuration name="AmazonTest.mobileDetailsByPrice" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OopsConcetsInFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AmazonTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AmazonTests" />
+      <option name="MAIN_CLASS_NAME" value="AmazonTests.AmazonTest" />
+      <option name="METHOD_NAME" value="mobileDetailsByPrice" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AmazonTest.selectCardNew" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="OopsConcetsInFramework" />
       <extension name="coverage">
@@ -81,16 +99,6 @@
       <option name="MAIN_CLASS_NAME" value="AmazonTests.AmazonTest" />
       <option name="METHOD_NAME" value="selectCardNew" />
       <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="D:/Git/OopsConcetsInFramework/amazonTestng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="OopsConcetsInFramework" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/amazonTestng.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -183,19 +191,19 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.TestLandingPageValidationEamilable" />
+      <item itemvalue="TestNG.AmazonTest.mobileDetailsByPrice" />
       <item itemvalue="TestNG.AmazonTest.selectCardNew" />
-      <item itemvalue="TestNG.D:/Git/OopsConcetsInFramework/amazonTestng.xml" />
       <item itemvalue="TestNG.D:/Git/OopsConcetsInFramework/pr.xml" />
       <item itemvalue="TestNG.LandingPageNew.selectCardNew" />
       <item itemvalue="TestNG.RahulShettyTest.loginAnd" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.AmazonTest.mobileDetailsByPrice" />
         <item itemvalue="TestNG.D:/Git/OopsConcetsInFramework/pr.xml" />
         <item itemvalue="TestNG.RahulShettyTest.loginAnd" />
         <item itemvalue="TestNG.LandingPageNew.selectCardNew" />
         <item itemvalue="TestNG.AmazonTest.selectCardNew" />
-        <item itemvalue="TestNG.D:/Git/OopsConcetsInFramework/amazonTestng.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -215,12 +223,20 @@
       <option name="project" value="LOCAL" />
       <updated>1760468002267</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="pom changes 15/10">
+      <created>1760514464919</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1760514464919</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="pom changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="pom changes" />
+    <MESSAGE value="pom changes 15/10" />
+    <option name="LAST_COMMIT_MESSAGE" value="pom changes 15/10" />
   </component>
 </project>

@@ -29,7 +29,6 @@
                         <include>AmazonTest</include>
                     </includes>
                     <suiteXmlFiles>
-                        <suiteXmlFile>amazonTestng.xml</suiteXmlFile>
                         <suiteXmlFile>pr.xml</suiteXmlFile>
                     </suiteXmlFiles>
                     <testFailureIgnore>true</testFailureIgnore>

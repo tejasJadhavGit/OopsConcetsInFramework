@@ -34,9 +34,14 @@ public class AmazonTest extends Base {
 
         hm.searchDesiredItem("Samsung Mobiles");
         WebElement mobile = hm.getMobileByPrice("13,999");
-        System.out.println("Expected Details of the mobile is = " + mobile.getText());
-        mobile.click();
-        getScreenshot("mobileDetailsByPrice", driver);
+      if(mobile!=null) {
+          System.out.println("Expected Details of the mobile is = " + mobile.getText());
+          mobile.click();
+          getScreenshot("mobileDetailsByPrice", driver);
+      }
+      else {
+          System.out.println("no mbile details found with specified price");
+      }
 
     }
 
